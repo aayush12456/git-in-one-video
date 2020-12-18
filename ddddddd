@@ -1,0 +1,47 @@
+[33mcommit 4cf403a50df997351447cb474d736f7a184585e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aayush <aayushtapadia28@gmail.com>
+Date:   Fri Dec 11 23:28:54 2020 +0530
+
+    Added more html
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/in.html b/in.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..389b661[m
+[1m--- /dev/null[m
+[1m+++ b/in.html[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title></title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m<p>gandu</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4c04a4e[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title></title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m<p>hello</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/monuments.html b/monuments.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
